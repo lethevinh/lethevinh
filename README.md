@@ -2,11 +2,8 @@
 
 A web developer living in HCM, VietNam 🇻🇳
 
-<a  target="_blank" href="https://api.whatsapp.com/send?phone=0394042&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>
 <a target="_blank" href="https://www.twitter.com/lethevinh_qng" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flethevinh_qng" />
 </a>
 <a  target="_blank" href="https://www.linkedin.com/in/lethevinh" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
