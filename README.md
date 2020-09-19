@@ -3,7 +3,7 @@
 A web developer living in HCM, VietNam 🇻🇳
 
 <a target="_blank" href="https://www.twitter.com/lethevinh_qng" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flethevinh_qng" />
+    <img src="https://camo.githubusercontent.com/f6bc8eba24f0d279574852c1a85f0ade22be62ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" />
 </a>
 <a  target="_blank" href="https://www.linkedin.com/in/lethevinh" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
